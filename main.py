@@ -16,7 +16,7 @@ truck2.time = timedelta(hours=9, minutes=5)
 truck3.time = truck1.time
 
 print("\n------------------------------------------------")
-print("Welcome to the WGUPS Delivery Tracking Software!")
+print("Welcome to the Delivery Tracking Software!")
 print("------------------------------------------------\n")
 
 
