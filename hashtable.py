@@ -1,7 +1,5 @@
 # Hash Table class
-# Implemented using the video on creating Hash tables from course tips
-# with a few tweaks to make it easier for me to read and understand
-# Video from course tips: https://www.youtube.com/watch?v=9HFbhPscPU0
+
 class Hashtable:
 
     def __init__(self):

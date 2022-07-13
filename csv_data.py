@@ -2,8 +2,8 @@ import csv
 from package import Package
 from hashtable import Hashtable
 
-distance_file = "WGUPS Distance Table_1.csv"
-address_file = "WGUPS Package File_1.csv"
+distance_file = "Distance Table_1.csv"
+address_file = "Package File_1.csv"
 addresses = Hashtable()
 address_data = []
 

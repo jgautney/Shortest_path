@@ -1,6 +1,5 @@
 # main.py
 # Josh Gautney
-# Student ID: 001282616
 
 import sys
 import truck
